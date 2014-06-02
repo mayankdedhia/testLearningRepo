@@ -10,6 +10,4 @@ Abhishek added changes.
 
 Changes done in test-branch-2.
 
-Modifing the file to test revert commit.
-
 Add Interactivity-1 files.
